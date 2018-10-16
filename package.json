@@ -15,5 +15,8 @@
   "devDependencies": {
     "mdx-deck": "^1.6.7"
   },
-  "name": "thorium-overview"
+  "name": "thorium-overview",
+  "dependencies": {
+    "file-loader": "^2.0.0"
+  }
 }
